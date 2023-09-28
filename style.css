@@ -1,26 +1,26 @@
 @font-face {
   font-family: "Graphi-lightr";
-  src: url("./assets/font/Graphik-Light-Web.0b54523d.1.woff2");
+  src: url("assets/font/Graphik-Light-Web.0b54523d.1.woff2");
   font-weight: lighter;
 }
 @font-face {
   font-family: "Graphi-Medium";
-  src: url("/assets/font/Graphik-Medium-Web.dcadfa4d.1.woff2");
+  src: url("assets/font/Graphik-Medium-Web.dcadfa4d.1.woff2");
   font-weight: 500;
 }
 @font-face {
   font-family: "Graphi-Regular";
-  src: url("/assets/font/Graphik-Regular-Web.11b60cc4.1.woff2");
+  src: url("assets/font/Graphik-Regular-Web.11b60cc4.1.woff2");
   font-weight: normal;
 }
 @font-face {
   font-family: "Means-Light";
-  src: url("/assets/font/Means-Light-Web.7121f5d6.1.woff2");
+  src: url("assets/font/Means-Light-Web.7121f5d6.1.woff2");
   font-weight: lighter;
 }
 @font-face{
   font-family:"Means";
-  src:url("/assets/font/Means-Regular-Web.c14e83d3.1.woff2")
+  src:url("assets/font/Means-Regular-Web.c14e83d3.1.woff2")
 }
 * {
   margin: 0;
